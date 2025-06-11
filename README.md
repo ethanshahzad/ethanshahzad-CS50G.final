@@ -6,4 +6,4 @@ learn in the course, and implemented it into my game.
 
 Demonstration: https://www.youtube.com/watch?v=Wx8lfeVcz3Q
 
-If you plan on running this game, please use a software that works with the Lua script.
+If you plan on running this game, the preferred running software would be Love2D.
